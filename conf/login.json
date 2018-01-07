@@ -1,0 +1,30 @@
+{
+    "version":1,
+    "description":"alipay login",
+    "url":"http://www.alipay.com",
+    "usr_pwd_null":{
+      "usr":"",
+      "pwd":"",
+      "msg":"请输入账户名"
+    },
+    "pwd_null":{
+      "usr":"testingwinter",
+      "pwd":"",
+      "msg":"请输入登录密码"
+    },
+    "usr_null":{
+      "usr":"",
+      "pwd":"testingwinter",
+      "msg":"请输入账户名"
+    },
+    "usr_pwd_wrong":{
+      "usr":"testingwinter",
+      "pwd":"testingwinter",
+      "msg":["该账户不存在或登录密码出错已达上限，请更换账户。", "登录失败，你可以尝试使用扫码登录或稍后重试。"]
+    },
+    "usr_pwd_correct":{
+      "usr":"xxx",
+      "pwd":"xxx",
+      "msg":["你好，xxx"]
+    }
+}

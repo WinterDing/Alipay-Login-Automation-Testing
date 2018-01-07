@@ -1,0 +1,113 @@
+1515331741780	geckodriver	INFO	geckodriver 0.19.1
+1515331741790	geckodriver	INFO	Listening on 127.0.0.1:48700
+1515331743826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\z218680\\AppData\\Local\\Temp\\rust_mozprofile.tac4NN23Q5IV"
+1515331745924	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331748543	Marionette	INFO	Listening on port 48708
+1515331749530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515331749616	Marionette	DEBUG	Register listener.js for window 4294967297
+1515331749647	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515331750292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515331750292	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://t.alipayobjects.com/images/rmsweb/T19ctgXcRlXXXXXXXX.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515331750693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.alipay.com/"
+1515331751064	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.alipay.com/"
+1515331751270	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.alipay.com/"
+1515331751585	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.alipay.com/"
+1515331751585	Marionette	DEBUG	Received DOM event "unload" for "https://www.alipay.com/"
+1515331752631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331753153	Marionette	DEBUG	Received DOM event "pageshow" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331753470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515331753928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515331754469	geckodriver	INFO	geckodriver 0.19.1
+1515331754482	geckodriver	INFO	Listening on 127.0.0.1:48798
+1515331756503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\z218680\\AppData\\Local\\Temp\\rust_mozprofile.qg4KRe4w1ykw"
+1515331757383	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331759439	Marionette	INFO	Listening on port 48804
+1515331759722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515331759786	Marionette	DEBUG	Register listener.js for window 4294967297
+1515331759817	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515331760420	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515331760421	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://t.alipayobjects.com/images/rmsweb/T19ctgXcRlXXXXXXXX.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515331760808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.alipay.com/"
+1515331761057	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.alipay.com/"
+1515331761204	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.alipay.com/"
+1515331761417	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.alipay.com/"
+1515331761417	Marionette	DEBUG	Received DOM event "unload" for "https://www.alipay.com/"
+1515331762021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331762315	Marionette	DEBUG	Received DOM event "pageshow" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331762629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515331763037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331763500	geckodriver	INFO	geckodriver 0.19.1
+1515331763510	geckodriver	INFO	Listening on 127.0.0.1:48888
+1515331765559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\z218680\\AppData\\Local\\Temp\\rust_mozprofile.04Mt6LguG5uj"
+1515331766203	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331767828	Marionette	INFO	Listening on port 48894
+1515331768725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515331768784	Marionette	DEBUG	Register listener.js for window 4294967297
+1515331768816	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515331769480	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515331769480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://t.alipayobjects.com/images/rmsweb/T19ctgXcRlXXXXXXXX.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515331769938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.alipay.com/"
+1515331770218	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.alipay.com/"
+1515331770335	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.alipay.com/"
+1515331770624	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.alipay.com/"
+1515331770625	Marionette	DEBUG	Received DOM event "unload" for "https://www.alipay.com/"
+1515331771224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331771961	Marionette	DEBUG	Received DOM event "pageshow" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331772229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515331772629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331773078	geckodriver	INFO	geckodriver 0.19.1
+1515331773088	geckodriver	INFO	Listening on 127.0.0.1:48987
+1515331775109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\z218680\\AppData\\Local\\Temp\\rust_mozprofile.USez3pw7UXOg"
+1515331775750	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331777349	Marionette	INFO	Listening on port 48993
+1515331778287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515331778359	Marionette	DEBUG	Register listener.js for window 4294967297
+1515331778391	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515331779302	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515331779303	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://t.alipayobjects.com/images/rmsweb/T19ctgXcRlXXXXXXXX.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515331779615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.alipay.com/"
+1515331779942	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.alipay.com/"
+1515331780061	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.alipay.com/"
+1515331780301	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.alipay.com/"
+1515331780301	Marionette	DEBUG	Received DOM event "unload" for "https://www.alipay.com/"
+1515331780907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331781541	Marionette	DEBUG	Received DOM event "pageshow" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331781821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515331782044	Marionette	DEBUG	Received DOM event "beforeunload" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331782386	Marionette	DEBUG	Received DOM event "pagehide" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+1515331782407	Marionette	DEBUG	Received DOM event "unload" for "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F"
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515331782771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://authsu18.alipay.com/login/index.htm"
+1515331782972	Marionette	DEBUG	Received DOM event "pageshow" for "https://authsu18.alipay.com/login/index.htm"
+Unable to read VR Path Registry from C:\Users\z218680\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
